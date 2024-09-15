@@ -1,0 +1,112 @@
+C:\Users\Alumnos\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Alumnos\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Alumnos\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Alumnos\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Alumnos\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Alumnos\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Principal.resources
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Principal.resources
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.VehiculosForms.resources
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Ventas.resources
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Alumnos\Downloads\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Principal.resources
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.VehiculosForms.resources
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Ventas.resources
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\luiss\OneDrive\Escritorio\WinFormsApp1_0409\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Principal.resources
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.VehiculosForms.resources
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Ventas.resources
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\luiss\OneDrive\Escritorio\certamen version 3\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Principal.resources
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.VehiculosForms.resources
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Ventas.resources
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\56951\Downloads\certamen 1 intento 4\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Principal.resources
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.VehiculosForms.resources
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Ventas.resources
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\luiss\OneDrive\Escritorio\Certamen1 Definitivo\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
